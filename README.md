@@ -4,6 +4,7 @@
 
 > Description the project.
 
+CSS frameworks are a set of CSS and JS resources that speed up the process of building a new website. They provide a set of elements that are needed to build a new modern front-end project: a grid system, breakpoints, and pre-built components.
 
 ## Built With
 
